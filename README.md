@@ -6,4 +6,4 @@ Kevin Revelo is an aspiring software engineer, marked by his proactivity and dis
 - 👯 I’m looking to collaborate on open-source projects and initiatives that focus on AI applications, personal finance tools, and educational software.
 - 🤔 I’m looking for help with exploring new AI technologies and frameworks that can enhance my data analysis and predictive modeling skills.
 - 💬 Ask me about my journey in software development, my experience with SCRUM methodologies, or my insights on transitioning to AWS cloud services.
-- 📫 How to reach me: Shoot me an email at kevrevelo@hotmail.com or connect with me on [LinkedIn]([linkedin.com/in/kevin-revelo-flores-820262295/](https://www.linkedin.com/in/kevin-revelo-flores-820262295/)).
+- 📫 How to reach me: Shoot me an email at kevrevelo@hotmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-revelo-flores-820262295/)
