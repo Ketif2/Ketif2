@@ -1,5 +1,5 @@
-### Hi I'm Revelo👋
-Kevin Revelo is an aspiring software engineer, marked by his proactivity and discipline. At 22 years old, he combines technical skills with a future-oriented vision. With experience in AI and web development, and ongoing education at the Escuela Politécnica Nacional, Kevin demonstrates his commitment to excellence and constant learning. His certifications in SCRUM and AWS highlight his readiness to meet the challenges of the tech field.
+### Hi I'm Kevin Revelo👋
+I am an upcoming software engineer, marked by his proactivity and discipline. At 22 years old, he combines technical skills with a future-oriented vision. With experience in AI and web development, and ongoing education at the Escuela Politécnica Nacional, Kevin demonstrates his commitment to excellence and constant learning. His certifications in SCRUM and AWS highlight his readiness to meet the challenges of the tech field.
 
 - 🔭 Currently, I am focusing on applying my experience and technical knowledge in the field of processes at Colour Republic. My role involves optimizing and enhancing existing workflows, as well as implementing innovative solutions to increase efficiency and the quality of internal processes.
 - 🌱 I’m currently learning advanced concepts in software engineering at the Escuela Politécnica Nacional, aiming to enrich my knowledge and apply it to real-world challenges.
